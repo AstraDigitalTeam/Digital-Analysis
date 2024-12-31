@@ -1,19 +1,29 @@
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe style="position: absolute; width: 100%; height: 100%; border: solid 1px #333;" src="https://www.beautiful.ai/embed/-OFJepKbJpR6nT8I8DoB?utm_source=beautiful_player&amp;utm_medium=embed&amp;utm_campaign=-OFIpTa4hipaER-0g_-N" allow="clipboard-write" allowfullscreen="">
-    </iframe> <a style="display: block; text-align: center; margin-top: 10px;" href="https://www.beautiful.ai/embed/-OFJepKbJpR6nT8I8DoB?utm_source=beautiful_player&amp;utm_medium=embed&amp;utm_campaign=-OFIpTa4hipaER-0g_-N"> View Untitled #1 on Beautiful.ai </a></div>
-<style><!--
-    /* Ensure the iframe scales well on smaller devices */
-    @media (max-width: 768px) {
-        iframe {
-            width: 100%;
-            height: 100%;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Page</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
         }
-    }
-
-    @media (min-width: 769px) {
         iframe {
-            max-width: 100%;
-            height: 100%;
+            position: absolute;
+            width: 640px;
+            height: 360px;
+            border: solid 1px #333;
         }
-    }
---></style>
-
+    </style>
+</head>
+<body>
+    <iframe allow="clipboard-write" allowfullscreen 
+        src="https://www.beautiful.ai/embed/-OFSDTsepFqTgIL7Vp2e?utm_source=beautiful_player&utm_medium=embed&utm_campaign=-OFIpTa4hipaER-0g_-N">
+    </iframe>
+</body>
+</html>
